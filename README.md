@@ -120,3 +120,7 @@ docker-compose scale <service name> = <no of instances>
 - Remove the single point of failure from the system
   - Add a database cluster (master/slave) for data replication and failover
 - Explore new approaches for generating shorter URL slugs
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
