@@ -1,0 +1,7 @@
+[database]
+type = "postgres" # Specifies what kind of database we're connecting to
+host = "db" # ip address of the machine hosting the database
+port = 5432 # Port the database is listening on
+username = "postgres"
+password = "dev"
+database = "postgres"
