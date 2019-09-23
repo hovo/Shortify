@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/BurntSushi/toml v0.3.1
-	github.com/go-redis/redis v6.15.5+incompatible
+	github.com/DATA-DOG/go-sqlmock v1.3.3
 	github.com/gorilla/mux v1.7.3
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/lib/pq v1.0.0
