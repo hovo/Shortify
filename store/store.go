@@ -1,3 +1,4 @@
+// Package store implements data persistence
 package store
 
 import (
