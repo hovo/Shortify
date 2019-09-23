@@ -1,3 +1,4 @@
+// Package base62 implements base62 encoding
 package base62
 
 import (
