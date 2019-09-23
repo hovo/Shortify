@@ -1,3 +1,6 @@
+[![GoDoc](https://godoc.org/github.com/khachikyan/Shortify?status.svg)](https://godoc.org/github.com/khachikyan/Shortify)
+[![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/khachikyan/Shortify/blob/master/LICENSE)
+
 # Shortify
 
 Yet another URL shortener API in Go.
