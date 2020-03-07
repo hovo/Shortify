@@ -15,6 +15,11 @@ Run the following command in your terminal to start the service:
 docker-compose up -d
 ```
 
+## Running Tests
+```sh
+go test -v
+```
+
 ## API
 **POST** /short
 
